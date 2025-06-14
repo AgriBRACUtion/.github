@@ -63,6 +63,6 @@ Affiliations
 
 📺 Presentation & Report
 
-[Presentation Slides](https://docs.google.com/presentation/d/1qKSRtwe0y2xkN3E-D27NrOpgq8CaQipZiHwPSOpTPqw/edit?usp=sharing)|| [Technical Report](https://www.researchgate.net/publication/392194862_AgriBuddy_An_Agentic_AI_System_for_Bangladeshi_Agriculture_Using_RAG_and_Vision_Models?fbclid=IwY2xjawK5-ztleHRuA2FlbQIxMABicmlkETF3aEcxSW9SZHdsanlWdDdlAR5KfThz_c9HofybMnCC4U1X5iY09izgu3ph8AE47k8ZAut23x3LTr1KaJPRLw_aem_TL-KAqVeHBj0L7V67AzFFw) || [Overview VIdeo](https://youtu.be/vTWUjcQ4wnM)
+[Presentation Slides](https://docs.google.com/presentation/d/1qKSRtwe0y2xkN3E-D27NrOpgq8CaQipZiHwPSOpTPqw/edit?usp=sharing) | [Technical Report](https://www.researchgate.net/publication/392194862_AgriBuddy_An_Agentic_AI_System_for_Bangladeshi_Agriculture_Using_RAG_and_Vision_Models?fbclid=IwY2xjawK5-ztleHRuA2FlbQIxMABicmlkETF3aEcxSW9SZHdsanlWdDdlAR5KfThz_c9HofybMnCC4U1X5iY09izgu3ph8AE47k8ZAut23x3LTr1KaJPRLw_aem_TL-KAqVeHBj0L7V67AzFFw) | [Overview VIdeo](https://youtu.be/vTWUjcQ4wnM)
 
 
