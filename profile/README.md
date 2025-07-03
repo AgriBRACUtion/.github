@@ -1,5 +1,8 @@
 # AgriBuddy: AI-Powered Agricultural Guidance System
 
+![AgriBuddy Banner](https://github.com/AgriBRACUtion/minuscules/blob/main/logo.png?raw=true)
+
+
 ✨ Overview
 
 AgriBuddy is an AI-powered, agentic support system designed to provide personalized and real-time agricultural guidance to farmers in Bangladesh. It combines advanced language and vision models, including a Retrieval-Augmented Generation (RAG) framework, to deliver Bangla-language recommendations through a smart chatbot.
