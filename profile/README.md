@@ -1,4 +1,4 @@
-AgriBuddy: AI-Powered Agricultural Guidance System
+# AgriBuddy: AI-Powered Agricultural Guidance System
 
 ✨ Overview
 
