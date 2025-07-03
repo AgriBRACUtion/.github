@@ -30,6 +30,8 @@ AgriBuddy supports:
 🎯 Built For
 
 AgriBuddy is specifically built for smallholder and rural farmers in Bangladesh who require accessible, expert-level agricultural support without the burden of traveling long distances.
+
+
 ⚙️ Technical Highlights
 
     Modular Agent-Based Design: Features Smart Query, Memory, and Expert Agents for robust functionality.
@@ -50,13 +52,13 @@ AgriBuddy is specifically built for smallholder and rural farmers in Bangladesh 
 
     Md. Shaleh Islam Tonmoy
 
+    Md. Rezuwan Hassan
+    
+    Tanmoy Shome
+
     Rawhatur Rabbi
 
-    Md. Rezuwan Hassan
-
     Ruwad Naswan
-
-    Tanmoy Shome
 
 Affiliations
 
